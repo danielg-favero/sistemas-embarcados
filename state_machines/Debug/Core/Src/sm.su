@@ -1,0 +1,8 @@
+../Core/Src/sm.c:3:13:actionSTX	16	static
+../Core/Src/sm.c:13:13:actionAddr	16	static
+../Core/Src/sm.c:36:13:actionQtd	16	static
+../Core/Src/sm.c:46:13:actionData	16	static
+../Core/Src/sm.c:55:13:actionChk	16	static
+../Core/Src/sm.c:67:13:actionETX	16	static
+../Core/Src/sm.c:77:6:initialize	24	static
+../Core/Src/sm.c:94:6:execute	32	static

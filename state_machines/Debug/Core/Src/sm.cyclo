@@ -1,0 +1,8 @@
+../Core/Src/sm.c:3:13:actionSTX	2
+../Core/Src/sm.c:13:13:actionAddr	4
+../Core/Src/sm.c:36:13:actionQtd	3
+../Core/Src/sm.c:46:13:actionData	2
+../Core/Src/sm.c:55:13:actionChk	3
+../Core/Src/sm.c:67:13:actionETX	3
+../Core/Src/sm.c:77:6:initialize	1
+../Core/Src/sm.c:94:6:execute	2

@@ -1,0 +1,6 @@
+../Core/Src/main.c:66:7:pi	1
+../Core/Src/main.c:87:6:flash2ram	2
+../Core/Src/main.c:117:5:main	1
+../Core/Src/main.c:165:6:SystemClock_Config	3
+../Core/Src/main.c:211:13:MX_GPIO_Init	1
+../Core/Src/main.c:232:6:Error_Handler	1
